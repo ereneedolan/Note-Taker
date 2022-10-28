@@ -12,7 +12,6 @@ No steps required to install.
 ## Usage
 
 
-
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
@@ -31,12 +30,7 @@ MIT
 
 Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). 
 
-## Features
-
-If your project has a lot of features, list them here.
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
+I am not looking for any contributors at this time.
