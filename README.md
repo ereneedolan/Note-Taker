@@ -7,10 +7,11 @@ I created this project to connect the front end and back end together in a note 
 
 ## Installation
 
-No steps required to install.
+No steps required to install. 
 
 ## Usage
 
+Here is a link to the deployed app: https://note-taker-heroku-deployed.herokuapp.com/
 
 ## Credits
 
@@ -23,13 +24,6 @@ If you followed tutorials, include links to those here as well.
 ## License
 
 MIT
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). 
-
 
 ## How to Contribute
 
